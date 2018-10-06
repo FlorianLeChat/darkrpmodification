@@ -35,9 +35,8 @@ DarkRP.disabledDefaults["modules"] = {
 	["playerscale"]      = false,
 	["sleep"]            = false,
 	["fadmin"]           = false,
+	["animations"]       = false,
 }
-
-
 
 --[[---------------------------------------------------------------------------
 The disabled default jobs. true to disable, false to enable.
